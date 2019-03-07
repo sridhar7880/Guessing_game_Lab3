@@ -6,7 +6,7 @@
 body {
   font-family: Arial;
   padding: 20px;
-  background: #adbe49;
+  background: #0bb66fd8;
 }
 
 /* Header/Blog Title */
@@ -15,7 +15,7 @@ body {
   font-size: 40px;
   font-style: italic; 
   text-align: center;
-  background: whitesmoke;
+  background: rgb(245, 245, 245);
 }
 
 /* Create two unequal columns that floats next to each other */
@@ -36,7 +36,7 @@ body {
 
 /* Add a card effect for articles */
 .card {
-   background-color: white;
+   background-color: rgb(24, 84, 88);
    padding: 20px;
    margin-top: 25px;
 }
